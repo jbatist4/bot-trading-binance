@@ -1,0 +1,6 @@
+api_key: "YOUR_API_KEY"
+api_secret: "YOUR_API_SECRET"
+trading_pair: "BTC/USDT"
+trade_amount: 0.001
+stop_loss_percent: 2
+take_profit_percent: 5
