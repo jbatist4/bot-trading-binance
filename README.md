@@ -14,15 +14,15 @@ It sells when the price reaches either the take-profit or stop-loss level.
 
 ## Installation & Usage  
 Clone the repository  
-git clone https://github.com/jbatist4/bot-trading-binance.git    
-cd bot-trading-binance  
+*git clone https://github.com/jbatist4/bot-trading-binance.git*    
+*cd bot-trading-binance*  
 
 ## Install dependencies  
-pip install ccxt numpy talib    
+*pip install ccxt numpy talib*    
 
 Add your Binance API keys inside the script.  
 Run the bot  
-python bot_trading_binance.py  
+*python bot_trading_binance.py*  
 
 ## ❤️Donations  
 ### If you find this bot useful, consider supporting the project with a donation:  
